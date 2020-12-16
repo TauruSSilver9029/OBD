@@ -161,6 +161,23 @@
 
  ![](http://www.plantuml.com/plantuml/png/VL5DQl9G59s_LLnSW8Z3pucB-3OWDBLIVug-pXn4GzCEf4894GgrJTt0CrKCgRurdBkZtZmIQC5s47Auv-TStcrFT6UiRmTzwdhwVsTohTGKRx3OSinpd90XdoedKl-Go2Y5PPyVEQ91h-zDz6ZejKhA29dnd1U47Oo0W8e9SbX9ClATUDag6XBHpSInnn5cAlO8rdaYmW76mNiEMkUs4VLJ5Sf1vKYn-xjXBQGLsQVRtN6Y_ruN_rQtSlbxzldXV66foTb79eJv-JZokr5gtEjUQReSZRGtLbYBzAFmSroaSIYDIy9MHWSgapE-gokyu1qRRAY6PxmY934SwmZhI0JbxXWpNXH80crDYIpZ5L9gDfeDKjxmeYfj2vPBVm40)
 
+**Package:** UCD_1.0
+
+**ID:** UC_9
+
+**Назва:** Робота з issues
+
+**Учасники:** Робітник, Система
+
+**Передумови:** Виникли проблеми
+
+**Результат:** Проблеми усунено
+
+**Виключні ситуації:** Відсутні
+
+**Основний сценарій:**
+
+ ![](http://www.plantuml.com/plantuml/png/VP51Ji9G48RtSueN3j0Gbh3XAYPM9L5hshBhGY4sBeXi22GaLYiNQ8iDJQKzmpytSWOneKbbD_tVVE-RwHjw_eNhZ-zkAS07QgIyv0ag52W3EfnH7x546Mf-v5TUc97dZMrlSCmJP2XumZCZ7pdsF1qG1OWbVFfDa0JIkq2DBoGdV9knZmWfjgXFVDYfH65Kg7ZUVd-4IYby7nWzq_x_B2kz4haONdYgZeOM-JcJigKq5SXqdyRURV_GUI1oHzStlhbo7Dzs2P7GMnsFbxeSXmBC3LA9TkQuQC7F5k4DdzXWOpfOunsX4M1l8RGGIrNgh3BRJ2kTlaDO2xX2PdhTNjUGVN_v9nrABS_y0m00)
 
 
 
