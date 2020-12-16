@@ -143,6 +143,23 @@
 
  ![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/sholotyuk/pinTask/master/src/uml/UC_7.puml)
 
+**Package:** UCD_1.0
+
+**ID:** UC_8
+
+**Назва:** Використання issuse
+
+**Учасники:** Робітник, Система
+
+**Передумови:** Виникли помилки
+
+**Результат:** Помилки усунено
+
+**Виключні ситуації:** Відсутні
+
+**Основний сценарій:**
+
+ ![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/sholotyuk/pinTask/master/src/uml/UC_7.puml)
 
 
 
