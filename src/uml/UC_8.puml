@@ -1,5 +1,4 @@
 @startuml
-
 actor "Робітник" as Worker
 actor "Менеджер" as Manager
 actor "Тестувальник" as QA
@@ -9,6 +8,8 @@ usecase "<b>UC_1</b>\n Редагувати план проекту" as UC_1
 usecase "<b>UC_2</b>\n Запускати проект" as UC_2
 usecase "<b>UC_3</b>\n Отримання задачі" as UC_3
 usecase "<b>UC_4</b>\n Передача результату" as UC_4
+usecase "<b>UC_4</b>\n Робота з milestone" as UC_8
+usecase "<b>UC_4</b>\n Робота з issues" as UC_9
 usecase "<b>UC_5</b>\n Перевіряти виконання" as UC_5
 usecase "<b>UC_6</b>\n Обробляти помилки" as UC_6
 
@@ -21,6 +22,8 @@ Manager -u-|> red
 
 Worker -l-> UC_3
 Worker -r-> UC_4
+Worker -d-> UC_8
+Worker -u-> UC_9
 
 QA -u-> UC_5
 QA -d-> UC_6
