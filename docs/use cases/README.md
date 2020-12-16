@@ -3,7 +3,7 @@
 ## ФУНКЦІОНАЛЬНІСТЬ
 Система керування проектами сталої якості.
 Основні процеси.
- ![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/sholotyuk/pinTask/master/src/uml/UC_8.puml)
+ ![](http://www.plantuml.com/plantuml/png/ZPFDQjj04CVl-nIBxt4JVvW4WadekOSSIY-5eiHgQkfO8Cct7kI4kXVJN8eCeHzjyWAs4jN27_Oh_FUDEgFj22CerAVTsVdzPZqxEWb2nmy7LptbN8IUholuYGrc9ZRNM2F3egATGB_o_FUkNwHyHKg7APxm6wc9yfGNJj-vtCcvfvEXkJOtI335qentT6UdHTe4AnDZRJwRBvhpCMN633NcX2LKOagdunpptOvIWy2zS09NLuxFso-VlpauVdRUVjtNTEqqJtwq5ScKQMonP9uM9iA6CXPipsNCbcKraKs8sl8ri13LZa7uMfcl2_-ToaJ8iEBgTFzR-tUUIFR9nCBNotn3-1_SLgGMm5JdcxcvuJvAZyJI-9V5lYGs351zVTNjkK7ezLqX3_-Nx0R1m0q4EofZpVAr4ngVoDpQnYNyxEHRIo_4qonxMaNxC2CFNs4fbYrjLsHQaYiJGqlnx-_awRtENji-In4PsCZ1RkH3smuIppH7UZQdNWHy6sX8GBo74X3jaL9dfyMkoHl9RTbDKKpvtSjteNxhUQ7hAvgF28_vPCSy66PaOfwH6ONcsiuyClEngl0DztZ0WwxWZjexqWIigXXLyOjMr5Rgyz2CUKN2JKNXZi094btRh-rhvVOxKlI4rlIT_m40)
  
  ## Сценарій створення плану проекту
  
