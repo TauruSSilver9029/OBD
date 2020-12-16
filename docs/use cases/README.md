@@ -147,19 +147,19 @@
 
 **ID:** UC_8
 
-**Назва:** Використання issuse
+**Назва:** Робота з milestone
 
 **Учасники:** Робітник, Система
 
-**Передумови:** Виникли помилки
+**Передумови:** Поставлене завдання
 
-**Результат:** Помилки усунено
+**Результат:** Завдання виконано
 
 **Виключні ситуації:** Відсутні
 
 **Основний сценарій:**
 
- ![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/sholotyuk/pinTask/master/src/uml/UC_7.puml)
+ ![](http://www.plantuml.com/plantuml/png/VL5DQl9G59s_LLnSW8Z3pucB-3OWDBLIVug-pXn4GzCEf4894GgrJTt0CrKCgRurdBkZtZmIQC5s47Auv-TStcrFT6UiRmTzwdhwVsTohTGKRx3OSinpd90XdoedKl-Go2Y5PPyVEQ91h-zDz6ZejKhA29dnd1U47Oo0W8e9SbX9ClATUDag6XBHpSInnn5cAlO8rdaYmW76mNiEMkUs4VLJ5Sf1vKYn-xjXBQGLsQVRtN6Y_ruN_rQtSlbxzldXV66foTb79eJv-JZokr5gtEjUQReSZRGtLbYBzAFmSroaSIYDIy9MHWSgapE-gokyu1qRRAY6PxmY934SwmZhI0JbxXWpNXH80crDYIpZ5L9gDfeDKjxmeYfj2vPBVm40)
 
 
 
