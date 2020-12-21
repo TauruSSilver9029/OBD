@@ -1,4 +1,4 @@
-@startuml BEM
+@startuml
 title
 <font size=16 color=black>BE-модель
 end title
@@ -14,6 +14,14 @@ Person.username --* Person
 Person.publickey --* Person
 Person.qualities --* Person
 
+entity Issues
+entity Issues.id
+entity Issues.username
+entity Issues.publickey
+
+Issues.id --* Issues
+Issues.username --* Issues
+Issues.publickey --* Issues
 
 entity Group
 entity Group.id
@@ -43,6 +51,15 @@ entity Signature.rawdata
 Signature.id --* Signature
 Signature.rawdata --* Signature
 
+entity Milestones
+entity Milestones.id
+entity Milestones.username
+entity Milestones.publickey
+
+Milestones.id --* Milestones
+Milestones.username --* Milestones
+Milestones.publickey --* Milestones
+
 entity Artefact
 entity Artefact.id
 entity Artefact.uniqueName
@@ -66,6 +83,8 @@ Privilege "0,*"--"1,1" Task
 Task "1,1"--"0,*" Signature
 Task "0,*"-d-"0,*" Artefact
 Project "1,1"--"0,*" Task
+Project "1,1"--"0,*" Issues
+Project "1,1"--"0,*" Milestones
 Project "1,1"--"0,*" Artefact
 
 right footer
