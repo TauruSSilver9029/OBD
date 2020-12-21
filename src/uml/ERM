@@ -1,4 +1,4 @@
-@startuml ERM
+@startuml
 title
 <font size=16 color=black>ER-модель
 end title
@@ -46,6 +46,20 @@ key
 value
 }
 
+entity Issues {
+id
+uniqeName
+publickey
+name
+}
+
+entity Milistones {
+id
+uniqeName
+publickey
+name
+}
+
 Signature "0,*"--"1,1" Task
 Signature "0,*"--"1,1" Person
 Signature "0,*"--"1,1" Role
@@ -58,6 +72,11 @@ RoleLink "0,*"--*"1,1" Project
 
 Task "0,*"--"1,1" Person
 Task "0,*"--*"1,1" Project
+Person "0,*"--*"1,1" Issues
+Project "0,*"--*"1,1" Issues
+Person "0,*"--*"1,1" Milistones
+Project "0,*"--*"1,1" Milistones
+
 
 ArtefactLink "0,*"--*"1,1" Artefact
 ArtefactLink "0,*"--*"1,1" Task
@@ -69,4 +88,3 @@ right footer
 Київ 2020
 end footer
 @enduml
-
